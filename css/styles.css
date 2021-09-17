@@ -1,0 +1,16 @@
+h1 {
+    font-family: 'Aria', 'Helvetica', 'sans-serif';
+    font-size: 20px;
+    background-image: image();
+    color: red;
+    background-color: salmon;
+}
+
+p {
+    font-size: 12px;
+}
+
+.myImage {
+    width: fit-content;
+    height: fit-content;
+}
