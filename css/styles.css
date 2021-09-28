@@ -2,6 +2,7 @@ body{
     background-color: rgb(40,40,40)
 }
 
+/* Text/Tekst */
 .Title{
     color: white;
     text-align: center;
@@ -19,6 +20,11 @@ li{
     color: grey;
 }
 
+.logboek{
+    font-size: 50px;
+}
+
+/* Images/Afbeeldingen */
 .picture{
     width: 500;
     height: 410;
@@ -27,11 +33,16 @@ li{
 }
 
 .pic2{
-    position: absolute;
-    right:730px;
-    top: 530px;
+    margin: auto;
 }
 
+.schets{
+    margin: auto;
+    height: 410px;
+    width: 735px;
+}
+
+/* Others/Rest */
 .sHolder{
     color: white;
 }
