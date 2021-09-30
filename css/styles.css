@@ -29,8 +29,12 @@ li{
 }
 
 .logboek{
-    color: grey
+    color: grey;
+    display: block;
+    left: 50%;
 }
+
+
 
 .reflectie{
     background-color: rgb(50, 50, 50);
